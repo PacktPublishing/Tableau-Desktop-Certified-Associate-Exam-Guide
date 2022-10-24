@@ -14,3 +14,7 @@ Tableau Desktop Certified Associate: Exam Guide, Published by Packt
 
 Question 1: Answer the following question using the Superstore dataset. What was the percentage change in the **sales** between 2012 and 2013 for all segments?  _should be_  Question 1: Answer the following question using the Superstore dataset. What was the percentage change in the **profit** between 2012 and 2013 for all segments?
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838984137">https://packt.link/free-ebook/9781838984137 </a> </p>
